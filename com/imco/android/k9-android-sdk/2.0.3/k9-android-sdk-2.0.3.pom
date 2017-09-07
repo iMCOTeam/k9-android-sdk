@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.imco.android</groupId>
   <artifactId>k9-android-sdk</artifactId>
-  <version>2.0.0</version>
+  <version>2.0.3</version>
   <packaging>aar</packaging>
   <name>K9 Android SDK</name>
   <description></description>
