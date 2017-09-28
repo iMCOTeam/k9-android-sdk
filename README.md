@@ -10,7 +10,7 @@ In order to use the library:
 ```gradle
 allprojects {
 	repositories {
-		maven { url "https://raw.github.com/aimoke/k9-android-sdk/master" }
+		maven { url "https://raw.github.com/iMCOTeam/k9-android-sdk/master" }
 	}
 }
 ```
