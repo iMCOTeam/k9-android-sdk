@@ -3,12 +3,13 @@
   <groupId>com.imco.android</groupId>
   <artifactId>k9-android-sdk</artifactId>
   <versioning>
-    <release>2.1.0</release>
+    <release>2.1.1</release>
     <versions>
       <version>2.0.1</version>
       <version>2.0.3</version>
       <version>2.1.0</version>
+      <version>2.1.1</version>
     </versions>
-    <lastUpdated>20170928101845</lastUpdated>
+    <lastUpdated>20171017031840</lastUpdated>
   </versioning>
 </metadata>

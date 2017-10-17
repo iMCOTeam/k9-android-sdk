@@ -18,6 +18,6 @@ allprojects {
  
 ```gradle
 dependencies {
-	compile 'com.imco.android:k9-android-sdk:2.１.0'
+	compile 'com.imco.android:k9-android-sdk:2.１.１'
 }
 ```
