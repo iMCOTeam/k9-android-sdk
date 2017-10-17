@@ -3,7 +3,7 @@ Usage
 
 In order to use the library:
 
-** Gradle dependency** 
+**Gradle dependency** 
 
   -  Add the following to your project level `build.gradle`:
  
@@ -32,7 +32,7 @@ CommandManager.init(Context context);
 ```
 ConnectManager.getInstance().connect(Mac_address);
 ```
-*The response of all  Connect command  in ConnectCallback.java, you need implement it , eg : 
+* The response of all  Connect command  in ConnectCallback.java, you need implement it , eg : 
 ```
  private ConnectCallback mCallback = new ConnectCallback() {
         @Override
